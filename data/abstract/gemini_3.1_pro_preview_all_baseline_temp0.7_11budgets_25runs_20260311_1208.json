@@ -1,0 +1,2462 @@
+[
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 20,\n  \"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 20,\n  \"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 2,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 0,\n  \"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 30,\n  \"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 75\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 75,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 37,\n\"tokens_transferred\": 38\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 20,\n\"tokens_transferred\": 20\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 4,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 0,\n  \"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 0,\n  \"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 40,
+      "rate_self": 1,
+      "rate_other": 4
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 60,\n  \"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 15,\n\"tokens_transferred\": 45\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 15,\n\"tokens_transferred\": 45\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 15,\n\"tokens_transferred\": 45\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 3,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 60,\n\"tokens_transferred\": 0\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 30,\n  \"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 0,\n  \"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 0,\n  \"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 0,\n  \"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 0,\n\"tokens_transferred\": 60\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 60,
+      "rate_self": 1,
+      "rate_other": 3
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 30,\n\"tokens_transferred\": 30\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 50,\n  \"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 100,
+      "rate_self": 1,
+      "rate_other": 1
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 50,\n\"tokens_transferred\": 50\n}"
+  },
+  {
+    "run_id": 1,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 2,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 40,\n  \"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 3,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 4,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 5,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 6,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 7,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 8,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 40,\n  \"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 9,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 10,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 40,\n  \"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 11,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 12,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 13,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 14,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 15,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 16,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 17,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 18,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 19,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 20,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 21,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 22,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n  \"tokens_kept\": 40,\n  \"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 23,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 24,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  },
+  {
+    "run_id": 25,
+    "budget_params": {
+      "m": 80,
+      "rate_self": 2,
+      "rate_other": 2
+    },
+    "model_used": "gemini-3.1-pro-preview-all",
+    "response": "{\n\"tokens_kept\": 40,\n\"tokens_transferred\": 40\n}"
+  }
+]
